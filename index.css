@@ -91,7 +91,7 @@ header {
   padding-top: 151px;
   padding-bottom: 147px;
   background-image: linear-gradient(to right, #44dd8a99, #15b7e299),
-    url("ressources/bg-header.png");
+    url("assets/bg-header.png");
 }
 #div-bane {
   display: flex;
@@ -128,23 +128,23 @@ h1 {
 .cards_container {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap; /* IMPORTANT : permet le retour à la ligne */
+  flex-wrap: wrap;
   justify-content: space-between;
   margin-left: 100px;
   margin-right: 100px;
   margin-bottom: 43px;
-  gap: 20px; /* Espace entre les cartes */
+  gap: 20px;
 }
 .card {
   width: 307px;
-  max-width: 100%; /* IMPORTANT pour le responsive */
-  height: auto; /* Hauteur automatique */
+  max-width: 100%;
+  height: auto;
   min-height: 362px;
 }
 
 .card_image {
   position: relative;
-  width: 100%; /* Au lieu de 305px fixe */
+  width: 100%;
   max-width: 305px;
   height: 206px;
   margin-bottom: 21px;
@@ -223,7 +223,7 @@ h1 {
   height: 40px;
   font-size: 15px;
   display: block;
-  margin: 0 auto 51px; /* Centré automatiquement */
+  margin: 0 auto 51px;
   cursor: pointer;
   border: none;
   border-radius: 6px;
