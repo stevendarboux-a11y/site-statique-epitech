@@ -319,27 +319,27 @@ h1 {
 }
 
 .icon-progress::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/arrow-up-right.png");
+  background-image: url("ressources/arrow-up-right.svg");
 }
 
 .icon-qcm::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/edit-01.png");
+  background-image: url("ressources/edit-01.svg");
 }
 
 .icon-download::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/download-02.png");
+  background-image: url("ressources/download-02.svg");
 }
 
 .icon-quality::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/star-02.png");
+  background-image: url("ressources/star-02.svg");
 }
 
 .icon-autonomy::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/clock-backward.png");
+  background-image: url("ressources/clock-backward.svg");
 }
 
 .icon-support::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/annotation-typing.png");
+  background-image: url("ressources/annotation-typing.svg");
 }
 
 .h2_avantages {
@@ -395,23 +395,23 @@ h1 {
   margin-right: 10px;
 }
 .icon-commissions::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/coin-hand.png");
+  background-image: url("ressources/coin-hand.svg");
 }
 
 .icon-mise_avant::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/heart.png");
+  background-image: url("ressources/heart.svg");
 }
 
 .icon-controle::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/pencil-01.png");
+  background-image: url("ressources/pencil-01.svg");
 }
 
 .icon-configuration::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/settings.png");
+  background-image: url("ressources/settings.svg");
 }
 
 .icon-prof::before {
-  background-image: url("/Users/darbouxarnold/Desktop/SITE_EPITECH/site-statique-epitech/ressources/user-profile-square.png");
+  background-image: url("ressources/user-profile-square.svg");
 }
 .about_us {
   width: 100%;
