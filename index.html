@@ -309,11 +309,32 @@
         <div class="separator"></div>
         <form class="contact-form">
           <div class="input-row">
-            <input type="text" placeholder="Nom" required />
-            <input type="email" placeholder="Email" required />
+            <input
+              type="text"
+              id="nom"
+              name="nom"
+              placeholder="Nom"
+              aria-label="Votre nom"
+              required
+            />
+
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="Email"
+              aria-label="Votre adresse email"
+              required
+            />
           </div>
 
-          <textarea placeholder="Votre message" required></textarea>
+          <textarea
+            id="message"
+            name="message"
+            placeholder="Votre message"
+            aria-label="Votre message"
+            required
+          ></textarea>
 
           <button type="submit" class="btn-submit">Envoyer</button>
         </form>
