@@ -319,27 +319,27 @@ h1 {
 }
 
 .icon-progress::before {
-  background-image: url("ressources/arrow-up-right.svg");
+  background-image: url("assets/arrow-up-right.svg");
 }
 
 .icon-qcm::before {
-  background-image: url("ressources/edit-01.svg");
+  background-image: url("assets/edit-01.svg");
 }
 
 .icon-download::before {
-  background-image: url("ressources/download-02.svg");
+  background-image: url("assets/download-02.svg");
 }
 
 .icon-quality::before {
-  background-image: url("ressources/star-02.svg");
+  background-image: url("assets/star-02.svg");
 }
 
 .icon-autonomy::before {
-  background-image: url("ressources/clock-backward.svg");
+  background-image: url("assets/clock-backward.svg");
 }
 
 .icon-support::before {
-  background-image: url("ressources/annotation-typing.svg");
+  background-image: url("assets/annotation-typing.svg");
 }
 
 .h2_avantages {
@@ -395,23 +395,23 @@ h1 {
   margin-right: 10px;
 }
 .icon-commissions::before {
-  background-image: url("ressources/coin-hand.svg");
+  background-image: url("assets/coin-hand.svg");
 }
 
 .icon-mise_avant::before {
-  background-image: url("ressources/heart.svg");
+  background-image: url("assets/heart.svg");
 }
 
 .icon-controle::before {
-  background-image: url("ressources/pencil-01.svg");
+  background-image: url("assets/pencil-01.svg");
 }
 
 .icon-configuration::before {
-  background-image: url("ressources/settings.svg");
+  background-image: url("assets/settings.svg");
 }
 
 .icon-prof::before {
-  background-image: url("ressources/user-profile-square.svg");
+  background-image: url("assets/user-profile-square.svg");
 }
 .about_us {
   width: 100%;
